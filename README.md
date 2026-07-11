@@ -6,7 +6,6 @@ SQL Operators are special symbols or keywords used to perform operations on data
 # Types of SQL 
 
 1. Arithmetic Operators
-
 Definition :-
 Arithmetic operators are used to perform mathematical calculations on numeric values.
 
@@ -21,7 +20,6 @@ Arithmetic operators are used to perform mathematical calculations on numeric va
 
 
 2. Comparison (Relational) Operators
-
 Definition :-
 Comparison operators are used to compare two values and return TRUE or FALSE.
 
@@ -36,7 +34,6 @@ Comparison operators are used to compare two values and return TRUE or FALSE.
 
 
 3. Logical Operators
-
 Definition :-
 Logical operators are used to combine multiple conditions in a query.
 
@@ -49,7 +46,6 @@ Logical operators are used to combine multiple conditions in a query.
 
 
 4. Special Operators
-
 Definition :-
 Special operators are used for specific filtering and searching operations.
 
